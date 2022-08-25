@@ -169,6 +169,7 @@
     "response_types": "Response types",
     "revision": "Revision",
     "rpt_scripts": "RPT Modification Script",
+    "umaClaimGathering": "Claims Gathering Script",
     "saml1_uri": "Saml1 URI",
     "saml2_uri": "Saml2 URI",
     "scope_type": "Scope type",
